@@ -1,0 +1,14 @@
+[theme]
+primaryColor = "#FF4B4B"  # Couleur principale (rouge LoL)
+backgroundColor = "#0E1117"  # Fond sombre
+secondaryBackgroundColor = "#1A1C24"  # Fond secondaire
+textColor = "#FAFAFA"  # Texte clair
+
+[server]
+port = 8501
+address = "0.0.0.0"
+enableCORS = true
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false 
